@@ -1,4 +1,5 @@
 #!/usr/bin/python
 print("Hellow")
 print("hi")
+int a=10
 Print("James")
